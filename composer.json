@@ -1,5 +1,5 @@
 {
-	"name": "BRANCOM/silverstripe-brancom-security",
+	"name": "brancom/silverstripe-brancom-security",
 	"description": "Custom security templates for Brancom customers",
 	"type": "silverstripe-module",
 	"homepage": "https://github.com/Brancom/BRANCOMsecurity",
