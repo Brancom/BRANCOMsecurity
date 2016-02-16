@@ -1,9 +1,9 @@
 {
-	"name": "arnhoe/silverstripe-brancom-securitytemplates",
-	"description": "Custom security templates by customer",
+	"name": "BRANCOM/silverstripe-brancom-security",
+	"description": "Custom security templates for Brancom customers",
 	"type": "silverstripe-module",
-	"homepage": "https://github.com/feejin/Silverstripe-SecurityTemplates",
-	"keywords": ["silverstripe", "security", "templates", "theme"],
+	"homepage": "https://github.com/Brancom/BRANCOMsecurity",
+	"keywords": ["silverstripe", "security", "templates"],
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
@@ -18,6 +18,6 @@
 		"silverstripe/framework": ">=3.0"
 	},
 	"extra": {
-		"installer-name": "BRANCOMsecuritytemplates"
+		"installer-name": "BRANCOMsecurity"
 	}
 }
